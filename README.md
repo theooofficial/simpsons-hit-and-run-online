@@ -1,1 +1,2 @@
-# simpsons-hit-and-run-online
+# PLAY THE SIMPSONS ROAD RAGE IN YOUR BROWSER!
+NOTE: PLEASE KEEP ADBLOCK OFF (This Is Pricy)
